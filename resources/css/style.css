@@ -3,15 +3,32 @@ body{
     text-align: center;
 }
 
-div {
+h2 {
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-weight: normal;
 font-size: 50px;
 color: white;
 text-align: center;
 }
+h3{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300px;
+    font-size: 42px;
+}
 a {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+}
+section0{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 21px;
+    color: gray;
+}
+section1{
+    text-align: center;
+    color: geay;
+    
 }
