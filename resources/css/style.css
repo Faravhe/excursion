@@ -2,7 +2,7 @@ body{
     background-color: black;
     text-align: center;
 }
-
+/* heading*/
 h2 {
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-weight: normal;
@@ -10,25 +10,30 @@ font-size: 50px;
 color: white;
 text-align: center;
 }
+/* heading 2*/
 h3{
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300px;
     font-size: 42px;
 }
+/* links*/
 a {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
 }
+/* paragraph*/
 section0{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     font-size: 21px;
     color: gray;
 }
-section1{
-    text-align: center;
-    color: geay;
+.footer--copyright{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    color:gray;
+    font-size: 21px;
     
 }
